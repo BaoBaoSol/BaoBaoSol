@@ -4,7 +4,6 @@
 
 I am an experienced software developer with the main focus on blockchain/crypto projects. I can build decentralized exchange. I've successfully completed so many projects mainly on EVM-based blockchains such as Ethereum, Polygon, Binance.
 
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BaoBaoSol)  
