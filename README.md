@@ -1,6 +1,7 @@
+![I am a Cryptocurrency & Blockchain Developer](https://imgkub.com/images/2024/02/03/Screenshot_20240203-071012.png)
 ### Hi there 👋, This is Tony
 #### I am a Cryptocurrency & Blockchain Developer
-![I am a Cryptocurrency & Blockchain Developer](https://imgkub.com/images/2024/02/03/Screenshot_20240203-071012.png)
+
 
 I am an experienced software developer with the main focus on blockchain/crypto projects. I can build decentralized exchange. I've successfully completed so many projects mainly on EVM-based blockchains such as Ethereum, Polygon, Binance.
 
